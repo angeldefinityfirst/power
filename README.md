@@ -4,4 +4,6 @@ Feature 001
 
 Feature 002
 
-Release Notes
+Release Notes 1.0.0
+
+Hotfix 1.0.1
